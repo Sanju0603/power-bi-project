@@ -1,5 +1,7 @@
 # PowerBi_Dashboard_project
-This is power bi end to end project 
+This is power bi end to end project
+
+Project Title:- HR ANALYTICS ANALYSIS
 
 Employee Demographics:- Visualize employee demographics such as age distribution, gender ratio, ethnicity distribution, education level, and marital status using pie charts, bar charts, or histograms.
 Compare demographic data across different departments, locations, or job levels using slicers or filters.
